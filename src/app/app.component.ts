@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+//configuración de CI.yml
 export class AppComponent {
   title = 'unit-testing';
 }
